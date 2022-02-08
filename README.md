@@ -8,4 +8,4 @@ This solution sheet is exclusively for JavaScript developers
 who want to dive into the world of data structures and algorithms
 and crack coding interviews.
 
-[dsa.js](https://www.npmjs.com/package/dsa.js/v/2.7.3)
+Please visit [dsa.js](https://www.npmjs.com/package/dsa.js/v/2.7.3) to learn more.
